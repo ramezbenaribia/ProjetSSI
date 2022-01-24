@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+passlib = "*"
+cffi = "*"
+contextlib2 = "*"
+cryptography = "*"
+mysql-connector-python = "*"
+protobuf = "*"
+pyasn1 = "*"
+pycparser = "*"
+python-dotenv = "*"
+rsa = "*"
+schema = "*"
+crypto = "*"
+pycryptodome = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
